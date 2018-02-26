@@ -12,4 +12,4 @@ The above project demonistrates the complex animations using css3 and jquery and
 
 
 
-![Alt text](CSS3-slides-/Screenshot.png?raw=true "Screenshot")
+![Alt text](/../AbhinayB/CSS3-slides-/Screenshot.png?raw=true "Screenshot")
